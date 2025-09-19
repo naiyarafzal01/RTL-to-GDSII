@@ -1,5 +1,3 @@
-
-
 ### **TOOL CHECK**
 
 #### <ins>**Yosys**</ins>
@@ -19,6 +17,4 @@ $ make
 $ sudo make install
 ```
 ![Alt Text](Images/yosys_installation_done.jpeg)
-
-
 
