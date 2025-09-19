@@ -1,3 +1,3 @@
 # RISC-V SoC Tapeout Project
 “Electronics Engineer passionate about VLSI design and chip development. Skilled in RTL design, digital electronics, and ASIC/FPGA flows. Exploring RTL to GDSII design flow and open-source EDA tools.”
-Author -Md Naiyar Afzal
+Author -Naiyar Afzal
